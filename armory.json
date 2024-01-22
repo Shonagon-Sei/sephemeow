@@ -1,0 +1,1158 @@
+[
+  {
+    "Sec": "A",
+    "Col": 1,
+    "Num": "01",
+    "Icon (Preview)": "",
+    "Icon URL [Thumbnail]": "https://media.discordapp.net/attachments/1086304598370816031/1086308446376296529/image56.png?width=200&height=200",
+    "Name [Title]": "Gloves",
+    "Price [Field 1]*": 300,
+    "Attributes (+ Emotes) [Field 2]*": "<:CritRate:1088333019326189618> + 8% Critical Chance",
+    "Passives [Field 3]": "N/A",
+    "Tag": "GL",
+    "Label": "A101 - [GL] Gloves",
+    "Notice [Footer]": "",
+    
+    
+    
+  },
+  {
+    "Sec": "A",
+    "Col": 1,
+    "Num": "02",
+    "Icon (Preview)": "",
+    "Icon URL [Thumbnail]": "https://media.discordapp.net/attachments/1086304598370816031/1086308486301884436/icon3b486c0c20f8e67265b3ccd88aa0cc615ef413d98e41b.png?width=200&height=200",
+    "Name [Title]": "Bloodied Club",
+    "Price [Field 1]*": 410,
+    "Attributes (+ Emotes) [Field 2]*": "<:AD:1088115601312055388> + 10 Attack Damage\n<:LS:1088333028629151765> + 8% Life Steal",
+    "Passives [Field 3]": "N/A",
+    "Tag": "BC",
+    "Label": "A102 - [BC] Bloodied Club",
+    "Notice [Footer]": "",
+    
+    
+    
+  },
+  {
+    "Sec": "A",
+    "Col": 2,
+    "Num": "01",
+    "Icon (Preview)": "",
+    "Icon URL [Thumbnail]": "https://media.discordapp.net/attachments/1086304598370816031/1086308421474721792/image28.png?width=200&height=200",
+    "Name [Title]": "Astral Spear",
+    "Price [Field 1]*": 830,
+    "Attributes (+ Emotes) [Field 2]*": "<:AD:1088115601312055388> + 50 Attack Damage",
+    "Passives [Field 3]": "**[Armor Reduction]** +60 *Armor Pierce*",
+    "Tag": "AS",
+    "Label": "A201 - [AS] Astral Spear",
+    "Notice [Footer]": "[Armor Reduction] also appears in Longinus' Spear",
+    
+    
+    
+  },
+  {
+    "Sec": "A",
+    "Col": 2,
+    "Num": "02",
+    "Icon (Preview)": "",
+    "Icon URL [Thumbnail]": "https://cdn.discordapp.com/attachments/1086304598370816031/1086524606531239946/2748854144594742425447211106292282687921417n-1646552839467128157479.png",
+    "Name [Title]": "Chaos Bow",
+    "Price [Field 1]*": 1100,
+    "Attributes (+ Emotes) [Field 2]*": "<:AD:1088115601312055388> + 40 Attack Damage\n<:AS:1088334798382174279> + 10% Attack Speed",
+    "Passives [Field 3]": "**[Stab]** +10% *Armor Pierce* (x2 for ranged heroes)",
+    "Tag": "CB",
+    "Label": "A202 - [CB] Chaos Bow",
+    "Notice [Footer]": "",
+    
+    
+    
+  },
+  {
+    "Sec": "A",
+    "Col": 2,
+    "Num": "03",
+    "Icon (Preview)": "",
+    "Icon URL [Thumbnail]": "https://media.discordapp.net/attachments/1086304598370816031/1086308445277405194/image64.png?width=200&height=200",
+    "Name [Title]": "Uriel's Brand",
+    "Price [Field 1]*": 2020,
+    "Attributes (+ Emotes) [Field 2]*": "<:AD:1088115601312055388> + 60 Attack Damage\n<:AS:1088334798382174279> + 25% Attack Speed\n<:MagicArmor:1088333031279960144> + 180 Magic Armor",
+    "Passives [Field 3]": "**[Magic Guardian]** CD: 75s. When HP falls below 40% will activate (lasts 5s):\n> Gains a Shield, absorbs (600 - 2000)*Magic Damage*\n> Gains 25% *Resistance* \n> 30% *Movement Speed* \n\n\n**[Speed Up]** Normal Attacks will increase 10% *Movement Speed*",
+    "Tag": "UB",
+    "Label": "A203 - [UB] Uriel's Brand",
+    "Notice [Footer]": "",
+    
+    
+    
+  },
+  {
+    "Sec": "A",
+    "Col": 2,
+    "Num": "04",
+    "Icon (Preview)": "",
+    "Icon URL [Thumbnail]": "https://media.discordapp.net/attachments/1086304598370816031/1086308445742972948/image48.png?width=200&height=200",
+    "Name [Title]": "Death Curse",
+    "Price [Field 1]*": 2000,
+    "Attributes (+ Emotes) [Field 2]*": "<:AD:1088115601312055388> + 80 Attack Damage\n<:CDR:1088115603396636682> + 10% Cooldown Reduction\n<:MaxHP:1088115607410577448> + 800 Max HP",
+    "Passives [Field 3]": "**[Soul Prison]** On dealing damage, reduces target's *HP Regeneration* by 40% for 1.5s / 3s for Skills / Normal Attacks",
+    "Tag": "DC",
+    "Label": "A204 - [DC] Death Curse",
+    "Notice [Footer]": "[Soul Prison] also appears in Tome of the Reaper",
+    
+    
+    
+  },
+  {
+    "Sec": "A",
+    "Col": 2,
+    "Num": "05",
+    "Icon (Preview)": "",
+    "Icon URL [Thumbnail]": "https://media.discordapp.net/attachments/1086304598370816031/1086308420971397130/image20.png?width=200&height=200",
+    "Name [Title]": "Death Sickle",
+    "Price [Field 1]*": 2000,
+    "Attributes (+ Emotes) [Field 2]*": "<:AD:1088115601312055388> + 60 Attack Damage\n<:CDR:1088115603396636682> + 5% Cooldown Reduction",
+    "Passives [Field 3]": "**[Insatiable]** Receiving *Fatal Damage* will activate, gains 1s of *Invincible* and 20% *Movement Speed*. CD:90s",
+    "Tag": "DS",
+    "Label": "A205 - [DS] Death Sickle",
+    "Notice [Footer]": "",
+    
+    
+    
+  },
+  {
+    "Sec": "A",
+    "Col": 3,
+    "Num": "07",
+    "Icon (Preview)": "",
+    "Icon URL [Thumbnail]": "https://media.discordapp.net/attachments/1086304598370816031/1086308446627971254/image59.png?width=200&height=200",
+    "Name [Title]": "Bow of Slaughter",
+    "Price [Field 1]*": 2250,
+    "Attributes (+ Emotes) [Field 2]*": "<:AD:1088115601312055388> + 90 Attack Damage\n<:CritRate:1088333019326189618> + 10% Critical Chance\n<:LS:1088333028629151765> + 10% Life Steal",
+    "Passives [Field 3]": "**[Bloodthirst]** __Activate:__ Gains 60% *Life Steal* for 3s (Ranged heroes only). CD: 60s",
+    "Tag": "BoS",
+    "Label": "A307 - [BoS] Bow of Slaughter",
+    "Notice [Footer]": "",
+    
+    
+    
+  },
+  {
+    "Sec": "A",
+    "Col": 3,
+    "Num": "08",
+    "Icon (Preview)": "",
+    "Icon URL [Thumbnail]": "https://media.discordapp.net/attachments/1086304598370816031/1086308256999284796/978897145065263184.png?width=200&height=200",
+    "Name [Title]": "Dawning Star",
+    "Price [Field 1]*": 2980,
+    "Attributes (+ Emotes) [Field 2]*": "<:AD:1088115601312055388> + 50 Attack Damage\n<:AS:1088334798382174279> + 30% Attack Speed\n<:CritRate:1088333019326189618> + 10% Critical Chance",
+    "Passives [Field 3]": "**[Dawning Star]** Normal Attacks deal additional 50 *Physical Damage* (x2 for Ranged Heroes). CD: 0.35s\n\n**[Stab]** +20% *Armor Pierce* (x2 for ranged heroes)",
+    "Tag": "DS",
+    "Label": "A308 - [DS] Dawning Star",
+    "Notice [Footer]": "[Stab] also appears in Muramasa",
+    
+    
+    
+  },
+  {
+    "Sec": "A",
+    "Col": 3,
+    "Num": "01",
+    "Icon (Preview)": "",
+    "Icon URL [Thumbnail]": "https://media.discordapp.net/attachments/1086304598370816031/1086308420044455956/image41.png?width=200&height=200",
+    "Name [Title]": "Longinus' Spear",
+    "Price [Field 1]*": 2030,
+    "Attributes (+ Emotes) [Field 2]*": "<:AD:1088115601312055388> + 80 Attack Damage\n<:CDR:1088115603396636682> + 15% Cooldown Reduction\n<:MaxHP:1088115607410577448> + 500 Max HP",
+    "Passives [Field 3]": "**[Armor Reduction]** +60 *Armor Pierce*\n\n**[Shatter]** Each attack reduces target's *Armor* by 6% (up to x4, lasts 5s). CD: 3s",
+    "Tag": "LS",
+    "Label": "A301 - [LS] Longinus' Spear",
+    "Notice [Footer]": "[Armor Reduction] also appears in Astral Spear",
+    
+    
+    
+  },
+  {
+    "Sec": "A",
+    "Col": 3,
+    "Num": "02",
+    "Icon (Preview)": "",
+    "Icon URL [Thumbnail]": "https://media.discordapp.net/attachments/1086304598370816031/1086308421868978176/image31.png?width=200&height=200",
+    "Name [Title]": "Fafnir's Talon",
+    "Price [Field 1]*": 2040,
+    "Attributes (+ Emotes) [Field 2]*": "<:AD:1088115601312055388> + 60 Attack Damage\n<:AS:1088334798382174279> + 30% Attack Speed\n<:LS:1088333028629151765> + 10% Life Steal",
+    "Passives [Field 3]": "**[Dragon's Breath]** Normal Attacks deal additional *Physical Damage* = Target's *8%Current HP* (Max 80 to wildlings). CD: 0.3s",
+    "Tag": "FT",
+    "Label": "A302 - [FT] Fafnir's Talon",
+    "Notice [Footer]": "",
+    
+    
+    
+  },
+  {
+    "Sec": "A",
+    "Col": 3,
+    "Num": "03",
+    "Icon (Preview)": "",
+    "Icon URL [Thumbnail]": "https://media.discordapp.net/attachments/1086304598370816031/1086308446065922118/image49.png?width=200&height=200",
+    "Name [Title]": "Claves Sancti",
+    "Price [Field 1]*": 2120,
+    "Attributes (+ Emotes) [Field 2]*": "<:AD:1088115601312055388> + 100 Attack Damage",
+    "Passives [Field 3]": "**[Gift of the Swift]** Gains (3 - 45)*Movement Speed* for 1.5s after critical hit (Ranged heroes only)\n\n+ 25% *Critical Chance* - Unique Passive\n\n+ 40% *Critical Damage* - Unique Passive",
+    "Tag": "CS",
+    "Label": "A303 - [CS] Claves Sancti",
+    "Notice [Footer]": "",
+    
+    
+    
+  },
+  {
+    "Sec": "A",
+    "Col": 3,
+    "Num": "04",
+    "Icon (Preview)": "",
+    "Icon URL [Thumbnail]": "https://media.discordapp.net/attachments/1086304598370816031/1086308446938337320/image63.png?width=200&height=200",
+    "Name [Title]": "Muramasa",
+    "Price [Field 1]*": 2020,
+    "Attributes (+ Emotes) [Field 2]*": "<:AD:1088115601312055388> + 75 Attack Damage\n<:CDR:1088115603396636682> + 10% Cooldown Reduction",
+    "Passives [Field 3]": "**[Stab]** +40% *Armor Pierce*",
+    "Tag": "MU",
+    "Label": "A304 - [MU] Muramasa",
+    "Notice [Footer]": "[Stab] also appears in Dawning Star",
+    
+    
+    
+  },
+  {
+    "Sec": "A",
+    "Col": 3,
+    "Num": "05",
+    "Icon (Preview)": "",
+    "Icon URL [Thumbnail]": "https://media.discordapp.net/attachments/1086304598370816031/1086308422762364928/image39.png?width=200&height=200",
+    "Name [Title]": "The Beast",
+    "Price [Field 1]*": 1740,
+    "Attributes (+ Emotes) [Field 2]*": "<:AD:1088115601312055388> + 100 Attack Damage",
+    "Passives [Field 3]": "**[Lifesteal]** +25% *Life Steal*, + 25% *Magic Life Steal*",
+    "Tag": "TB",
+    "Label": "A305 - [TB] The Beast",
+    "Notice [Footer]": "",
+    
+    
+    
+  },
+  {
+    "Sec": "A",
+    "Col": 3,
+    "Num": "06",
+    "Icon (Preview)": "",
+    "Icon URL [Thumbnail]": "https://media.discordapp.net/attachments/1086304598370816031/1086308420363235428/image11.png?width=200&height=200",
+    "Name [Title]": "Omni Arms",
+    "Price [Field 1]*": 2150,
+    "Attributes (+ Emotes) [Field 2]*": "<:AD:1088115601312055388> + 70 Attack Damage\n<:AS:1088334798382174279> + 15% Attack Speed\n<:CDR:1088115603396636682> + 10% Cooldown Reduction\n<:MaxHP:1088115607410577448> + 600 Max HP",
+    "Passives [Field 3]": "**[Elemental Power]** Next Normal Attack within 5s after using a skill deals additional (100%AD) *Physics Damage*. CD: 2s\n\n**[Speed Up]** Normal Attacks will increase 10% *Movement Speed*",
+    "Tag": "OA",
+    "Label": "A306 - [OA] Omni Arms",
+    "Notice [Footer]": "[Elemental Power] also appears in Apocalypse, Frost Cape, Loki's Curse",
+    
+    
+    
+  },
+  {
+    "Sec": "A",
+    "Col": 3,
+    "Num": "07",
+    "Icon (Preview)": "",
+    "Icon URL [Thumbnail]": "https://media.discordapp.net/attachments/1086304598370816031/1086308420644249732/image14.png?width=200&height=200",
+    "Name [Title]": "Slikk's Sting",
+    "Price [Field 1]*": 1920,
+    "Attributes (+ Emotes) [Field 2]*": "<:AS:1088334798382174279> + 35% Attack Speed\n<:CritRate:1088333019326189618> + 25% Critical Chance\n<:MVSP:1088333050221432904> + 7% Movement Speed",
+    "Passives [Field 3]": "**[Wind's Blessing]** Gains 35% *Resistance* for 2s after Critical Hit",
+    "Tag": "SS",
+    "Label": "A307 - [SS] Slikk's Sting",
+    "Notice [Footer]": "[Wind's Blessing] cannot be stacked with Gilded Greaves",
+    
+    
+    
+  },
+  {
+    "Sec": "A",
+    "Col": 3,
+    "Num": "08",
+    "Icon (Preview)": "",
+    "Icon URL [Thumbnail]": "https://media.discordapp.net/attachments/1086304598370816031/1086308421210484856/image25.png?width=200&height=200",
+    "Name [Title]": "Fenrir's Tooth",
+    "Price [Field 1]*": 2950,
+    "Attributes (+ Emotes) [Field 2]*": "<:AD:1088115601312055388> + 200 Attack Damage",
+    "Passives [Field 3]": "**[Fenrir's Tooth]** Increases 30% *Damage Dealt* against targets with HP below 50%",
+    "Tag": "FT",
+    "Label": "A308 - [FT] Fenrir's Tooth",
+    "Notice [Footer]": "",
+    
+    
+    
+  },
+  {
+    "Sec": "A",
+    "Col": 3,
+    "Num": "09",
+    "Icon (Preview)": "",
+    "Icon URL [Thumbnail]": "https://media.discordapp.net/attachments/1086304598370816031/1086308445533241445/image45.png?width=200&height=200",
+    "Name [Title]": "Blitz Blade",
+    "Price [Field 1]*": 1900,
+    "Attributes (+ Emotes) [Field 2]*": "<:AS:1088334798382174279> + 35% Attack Speed\n<:CritRate:1088333019326189618> + 15% Critical Chance\n<:MVSP:1088333050221432904> + 5% Movement Speed",
+    "Passives [Field 3]": "**[Chain Lightning]** Normal Attacks have a 30% Chance to activate, deals (135 + 25% AD)*Magic Damage* (can crit). CD: 0.35s",
+    "Tag": "BB",
+    "Label": "A309 - [BB] Blitz Blade",
+    "Notice [Footer]": "",
+    
+    
+    
+  },
+  {
+    "Sec": "A",
+    "Col": 3,
+    "Num": 10,
+    "Icon (Preview)": "",
+    "Icon URL [Thumbnail]": "https://media.discordapp.net/attachments/1086304598370816031/1086308422519103689/image37.png?width=200&height=200",
+    "Name [Title]": "Devil's Handshake",
+    "Price [Field 1]*": 1960,
+    "Attributes (+ Emotes) [Field 2]*": "<:AS:1088334798382174279> + 30% Attack Speed\n<:CritRate:1088333019326189618> + 20% Critical Chance\n<:MVSP:1088333050221432904> + 5% Movement Speed",
+    "Passives [Field 3]": "**[Flame Wrath]** Normal Attacks increases 10% *Attack Speed* (up to x5, lasts 2s)",
+    "Tag": "DH",
+    "Label": "A310 - [DH] Devil's Handshake",
+    "Notice [Footer]": "",
+    
+    
+    
+  },
+  {
+    "Sec": "A",
+    "Col": 3,
+    "Num": 11,
+    "Icon (Preview)": "",
+    "Icon URL [Thumbnail]": "https://media.discordapp.net/attachments/1086304598370816031/1086308422229700768/image36.png?width=200&height=200",
+    "Name [Title]": "Rankbreaker",
+    "Price [Field 1]*": 1900,
+    "Attributes (+ Emotes) [Field 2]*": "<:AD:1088115601312055388> + 110 Attack Damage",
+    "Passives [Field 3]": "**[Windwalk]** Increases 10% *Movement Speed* when not in Battle State\n\n**[Break]** Gains (50 - 190) *Armor Pierce*",
+    "Tag": "RB",
+    "Label": "A311 - [RB] Rankbreaker",
+    "Notice [Footer]": "",
+    
+    
+    
+  },
+  {
+    "Sec": "B",
+    "Col": 1,
+    "Num": "01",
+    "Icon (Preview)": "",
+    "Icon URL [Thumbnail]": "https://media.discordapp.net/attachments/1083036860919599186/1086521510233129001/image15.png?width=200&height=200",
+    "Name [Title]": "Magic Ring",
+    "Price [Field 1]*": 300,
+    "Attributes (+ Emotes) [Field 2]*": "N/A",
+    "Passives [Field 3]": "+ 5% *Cooldown Reduction* - Unique Passive",
+    "Tag": "MR",
+    "Label": "B101 - [MR] Magic Ring",
+    "Notice [Footer]": "",
+    
+    
+    
+  },
+  {
+    "Sec": "B",
+    "Col": 2,
+    "Num": "01",
+    "Icon (Preview)": "",
+    "Icon URL [Thumbnail]": "https://media.discordapp.net/attachments/1083036860919599186/1086521510841303100/image23.png?width=200&height=200",
+    "Name [Title]": "Spooky Mask",
+    "Price [Field 1]*": 960,
+    "Attributes (+ Emotes) [Field 2]*": "<:AP:1088332995062141050> + 100 Ability Power",
+    "Passives [Field 3]": "**[Extermination]** + 75 *Magic Pierce*",
+    "Tag": "SM",
+    "Label": "B201 - [SM] Spooky Mask",
+    "Notice [Footer]": "[Extermination] also appears in Evil Secrets",
+    
+    
+    
+  },
+  {
+    "Sec": "B",
+    "Col": 2,
+    "Num": "02",
+    "Icon (Preview)": "",
+    "Icon URL [Thumbnail]": "https://media.discordapp.net/attachments/1083036860919599186/1086521511243948102/image5.png?width=200&height=200",
+    "Name [Title]": "Phoenix Tear",
+    "Price [Field 1]*": 500,
+    "Attributes (+ Emotes) [Field 2]*": "<:AP:1088332995062141050> + 50 Ability Power",
+    "Passives [Field 3]": "**[From the Ashes]** Leveling up restores 20% *Max HP* and 10% *Mana* within 3s",
+    "Tag": "PT",
+    "Label": "B202 - [PT] Phoenix Tear",
+    "Notice [Footer]": "[From the Ashes] also appears in Orb of the Magi",
+    
+    
+    
+  },
+  {
+    "Sec": "B",
+    "Col": 2,
+    "Num": "03",
+    "Icon (Preview)": "",
+    "Icon URL [Thumbnail]": "https://media.discordapp.net/attachments/1083036860919599186/1086525741170180236/87e8108995142053f4c9404279233a20583eb207e7793.png?width=200&height=200",
+    "Name [Title]": "Virtue's Bracelet",
+    "Price [Field 1]*": 720,
+    "Attributes (+ Emotes) [Field 2]*": "<:AP:1088332995062141050> + 60 Ability Power\n<:CDR:1088115603396636682> + 5% Cooldown Reduction\n<:ManaRegen:1088333040603906159> + 20 Mana / 5s",
+    "Passives [Field 3]": "N/A",
+    "Tag": "VB",
+    "Label": "B203 - [VB] Virtue's Bracelet",
+    "Notice [Footer]": "",
+    
+    
+    
+  },
+  {
+    "Sec": "B",
+    "Col": 2,
+    "Num": "04",
+    "Icon (Preview)": "",
+    "Icon URL [Thumbnail]": "https://media.discordapp.net/attachments/1083036860919599186/1086526094607400970/d9e5acef68f2f58e65fbb98a8be457ff583eb23412f3a.png?width=200&height=200",
+    "Name [Title]": "Vlad's Impaler",
+    "Price [Field 1]*": 1190,
+    "Attributes (+ Emotes) [Field 2]*": "<:AP:1088332995062141050> + 60 Ability Power\n<:CDR:1088115603396636682> + 5% Cooldown Reduction",
+    "Passives [Field 3]": "**[Soul Devourer]** + 15% *Magic Life Steal*",
+    "Tag": "VI",
+    "Label": "B204 - [VI] Vlad's Impaler",
+    "Notice [Footer]": "[Soul Devourer] also appears in Rhea's Blessing",
+    
+    
+    
+  },
+  {
+    "Sec": "B",
+    "Col": 2,
+    "Num": "05",
+    "Icon (Preview)": "",
+    "Icon URL [Thumbnail]": "https://media.discordapp.net/attachments/1083036860919599186/1086521551551205556/image57.png?width=200&height=200",
+    "Name [Title]": "Staff of Nuul",
+    "Price [Field 1]*": 2050,
+    "Attributes (+ Emotes) [Field 2]*": "<:AP:1088332995062141050> + 180 Ability Power\n<:CDR:1088115603396636682> + 10% Cooldown Reduction",
+    "Passives [Field 3]": "**[Tranquil Soul]** + 40% *Magic Pierce*",
+    "Tag": "SoN",
+    "Label": "B205 - [SoN] Staff of Nuul",
+    "Notice [Footer]": "",
+    
+    
+    
+  },
+  {
+    "Sec": "B",
+    "Col": 2,
+    "Num": "06",
+    "Icon (Preview)": "",
+    "Icon URL [Thumbnail]": "https://media.discordapp.net/attachments/1083036860919599186/1086521550058049626/image33.png?width=200&height=200",
+    "Name [Title]": "Evil Secrets",
+    "Price [Field 1]*": 1980,
+    "Attributes (+ Emotes) [Field 2]*": "<:AP:1088332995062141050> + 180 Ability Power",
+    "Passives [Field 3]": "**[Extermination] + 150 *Magic Pierce*",
+    "Tag": "ES",
+    "Label": "B206 - [ES] Evil Secrets",
+    "Notice [Footer]": "[Extermination] also appears in Spooky Mask",
+    
+    
+    
+  },
+  {
+    "Sec": "B",
+    "Col": 2,
+    "Num": "07",
+    "Icon (Preview)": "",
+    "Icon URL [Thumbnail]": "https://media.discordapp.net/attachments/1083036860919599186/1086521550494248960/image38.png?width=200&height=200",
+    "Name [Title]": "Tome of the Reaper",
+    "Price [Field 1]*": 1900,
+    "Attributes (+ Emotes) [Field 2]*": "<:AP:1088332995062141050> + 140 Ability Power\n<:CDR:1088115603396636682> + 10% Cooldown Reduction\n<:MaxHP:1088115607410577448> + 600 Max HP",
+    "Passives [Field 3]": "**[Soul Prison]** On dealing damage, reduces target's *HP Regeneration* by 40% for 1.5s / 3s for Skills / Normal Attacks",
+    "Tag": "TotR",
+    "Label": "B207 - [TotR] Tome of the Reaper",
+    "Notice [Footer]": "[Soul Prison] also appears in Death Curse",
+    
+    
+    
+  },
+  {
+    "Sec": "B",
+    "Col": 2,
+    "Num": "08",
+    "Icon (Preview)": "",
+    "Icon URL [Thumbnail]": "https://media.discordapp.net/attachments/1083036860919599186/1086521551127588954/image52.png?width=200&height=200",
+    "Name [Title]": "Virtue's Necklace",
+    "Price [Field 1]*": 1800,
+    "Attributes (+ Emotes) [Field 2]*": "<:AP:1088332995062141050> + 160 Ability Power\n<:CDR:1088115603396636682> + 15% Cooldown Reduction\n<:ManaRegen:1088333040603906159> + 25 Mana / 5s",
+    "Passives [Field 3]": "**[Wise]** Restores 1% *Max Mana* every second",
+    "Tag": "VN",
+    "Label": "B208 - [VN] Virtue's Necklace",
+    "Notice [Footer]": "",
+    
+    
+    
+  },
+  {
+    "Sec": "B",
+    "Col": 2,
+    "Num": "09",
+    "Icon (Preview)": "",
+    "Icon URL [Thumbnail]": "https://media.discordapp.net/attachments/1083036860919599186/1086525589831307264/image-removebg-preview_1.png?width=258&height=258",
+    "Name [Title]": "Astrolobe",
+    "Price [Field 1]*": 800,
+    "Attributes (+ Emotes) [Field 2]*": "<:AP:1088332995062141050> + 80 Ability Power",
+    "Passives [Field 3]": "**[Explosion]** Skills will explode 180 *Magic Damage* to nearby enemies. CD: 5s",
+    "Tag": "AL",
+    "Label": "B209 - [AL] Astrolobe",
+    "Notice [Footer]": "[Explosion] also appears in Boomstick",
+    
+    
+    
+  },
+  {
+    "Sec": "B",
+    "Col": 3,
+    "Num": "01",
+    "Icon (Preview)": "",
+    "Icon URL [Thumbnail]": "https://media.discordapp.net/attachments/1083036860919599186/1086521510052765727/image12.png?width=200&height=200",
+    "Name [Title]": "Boomstick",
+    "Price [Field 1]*": 1800,
+    "Attributes (+ Emotes) [Field 2]*": "<:AP:1088332995062141050> + 200 Ability Power\n<:MVSP:1088333050221432904> + 5% Movement Speed",
+    "Passives [Field 3]": "**[Explosion]** Skills will explode (100 + 40% AP)*Magic Damage* to nearby enemies. CD: 5s",
+    "Tag": "BS",
+    "Label": "B301 - [BS] Boomstick",
+    "Notice [Footer]": "[Explosion] also appears in Astrolobe",
+    
+    
+    
+  },
+  {
+    "Sec": "B",
+    "Col": 3,
+    "Num": "02",
+    "Icon (Preview)": "",
+    "Icon URL [Thumbnail]": "https://media.discordapp.net/attachments/1083036860919599186/1086521509687869550/image9.png?width=200&height=200",
+    "Name [Title]": "Hecate's Diadem",
+    "Price [Field 1]*": 2400,
+    "Attributes (+ Emotes) [Field 2]*": "<:AP:1088332995062141050> + 240 Ability Power",
+    "Passives [Field 3]": "**[Warlock]** + 35% *Ability Power*",
+    "Tag": "HD",
+    "Label": "B302 - [HD] Hecate's Diadem",
+    "Notice [Footer]": "",
+    
+    
+    
+  },
+  {
+    "Sec": "B",
+    "Col": 3,
+    "Num": "03",
+    "Icon (Preview)": "",
+    "Icon URL [Thumbnail]": "https://media.discordapp.net/attachments/1083036860919599186/1086521510409277510/image18.png?width=200&height=200",
+    "Name [Title]": "Orb of the Magi",
+    "Price [Field 1]*": 1900,
+    "Attributes (+ Emotes) [Field 2]*": "<:AP:1088332995062141050> + 140 Ability Power\n<:CDR:1088115603396636682> + 10% Cooldown Reduction",
+    "Passives [Field 3]": "**[Bide]** Gains 12 *Ability Power* and 110 *Max HP* every 30s (up to x10)\n\n**[From the Ashes]** Leveling up restores 20% *Max HP* and 10% *Mana* within 3s",
+    "Tag": "OotM",
+    "Label": "B303 - [OotM] Orb of the Magi",
+    "Notice [Footer]": "[From the Ashes] also appears in Phoenix Tear",
+    
+    
+    
+  },
+  {
+    "Sec": "B",
+    "Col": 3,
+    "Num": "04",
+    "Icon (Preview)": "",
+    "Icon URL [Thumbnail]": "https://media.discordapp.net/attachments/1083036860919599186/1086521509876600862/image10.png?width=200&height=200",
+    "Name [Title]": "Rhea's Blessing",
+    "Price [Field 1]*": 2220,
+    "Attributes (+ Emotes) [Field 2]*": "<:AP:1088332995062141050> + 140 Ability Power\n<:CDR:1088115603396636682> + 10% Cooldown Reduction\n<:MaxHP:1088115607410577448> + 600 Max HP",
+    "Passives [Field 3]": "**[Soul Devourer]** + 15% *Magic Life Steal*",
+    "Tag": "RB",
+    "Label": "B304 - [RB] Rhea's Blessing",
+    "Notice [Footer]": "[Soul Devourer[ also appears in Vlad's Impaler",
+    
+    
+    
+  },
+  {
+    "Sec": "B",
+    "Col": 3,
+    "Num": "05",
+    "Icon (Preview)": "",
+    "Icon URL [Thumbnail]": "https://media.discordapp.net/attachments/1083036860919599186/1086521551358283786/image54.png?width=200&height=200",
+    "Name [Title]": "Zweihander",
+    "Price [Field 1]*": 1900,
+    "Attributes (+ Emotes) [Field 2]*": "<:AS:1088334798382174279> + 20% Attack Speed\n<:AP:1088332995062141050> + 180 Ability Power\n<:MVSP:1088333050221432904> + 5% Movement Speed",
+    "Passives [Field 3]": "**[Rapid Blade]** Normal Attacks increase 15% *Attack Speed* (up to x2, lasts 4s)\n\n**[Twilight]** Normal Attacks deal additionally (40 + 20% AP)*Magic Damage*. CD: 0.35s",
+    "Tag": "ZW",
+    "Label": "B305 - [ZW] Zweihander",
+    "Notice [Footer]": "",
+    
+    
+    
+  },
+  {
+    "Sec": "B",
+    "Col": 3,
+    "Num": "06",
+    "Icon (Preview)": "",
+    "Icon URL [Thumbnail]": "https://media.discordapp.net/attachments/1083036860919599186/1086521511457865791/image6.png?width=200&height=200",
+    "Name [Title]": "Frosty's Revenge",
+    "Price [Field 1]*": 2020,
+    "Attributes (+ Emotes) [Field 2]*": "<:AP:1088332995062141050> + 140 Ability Power\n<:MaxHP:1088115607410577448> + 850 Max HP",
+    "Passives [Field 3]": "**[Frozen Heart]** Skills will reduce 20% target's *Movement Speed*",
+    "Tag": "FR",
+    "Label": "B306 - [FR] Frosty's Revenge",
+    "Notice [Footer]": "",
+    
+    
+    
+  },
+  {
+    "Sec": "B",
+    "Col": 3,
+    "Num": "07",
+    "Icon (Preview)": "",
+    "Icon URL [Thumbnail]": "https://media.discordapp.net/attachments/1083036860919599186/1086521510627385414/image21.png?width=200&height=200",
+    "Name [Title]": "Berith's Agony",
+    "Price [Field 1]*": 1800,
+    "Attributes (+ Emotes) [Field 2]*": "<:AP:1088332995062141050> + 140 Ability Power\n<:CDR:1088115603396636682> + 10% Cooldown Reduction\n<:MaxHP:1088115607410577448> + 600 Max HP",
+    "Passives [Field 3]": "**[Torture]** Skills will burn (60 + Target's *2%Current HP*)*Magic Damage* each second for 3s (Max 80 to wildlings)",
+    "Tag": "BA",
+    "Label": "B307 - [BA] Berith's Agony",
+    "Notice [Footer]": "",
+    
+    
+    
+  },
+  {
+    "Sec": "B",
+    "Col": 3,
+    "Num": "08",
+    "Icon (Preview)": "",
+    "Icon URL [Thumbnail]": "https://media.discordapp.net/attachments/1083036860919599186/1086521550683000864/image46.png?width=200&height=200",
+    "Name [Title]": "Apocalypse",
+    "Price [Field 1]*": 1900,
+    "Attributes (+ Emotes) [Field 2]*": "<:AP:1088332995062141050> + 180 Ability Power\n<:CDR:1088115603396636682> + 10% Cooldown Reduction\n<:MVSP:1088333050221432904> + 5% Movement Speed",
+    "Passives [Field 3]": "**[Elemental Power]** Next Normal Attack within 5s after using a skill deals additional (30%AD + 80%AP)*Magic Damage*. CD: 2s",
+    "Tag": "Apo",
+    "Label": "B308 - [Apo] Apocalypse",
+    "Notice [Footer]": "[Elemental Power] also appears in Omni Arms, Frost Cape, Loki's Curse",
+    
+    
+    
+  },
+  {
+    "Sec": "B",
+    "Col": 3,
+    "Num": "09",
+    "Icon (Preview)": "",
+    "Icon URL [Thumbnail]": "https://media.discordapp.net/attachments/1083036860919599186/1086521550284525608/image34.png?width=200&height=200",
+    "Name [Title]": "Soaring Aura",
+    "Price [Field 1]*": 2100,
+    "Attributes (+ Emotes) [Field 2]*": "<:AP:1088332995062141050> + 140 Ability Power\n<:CDR:1088115603396636682> + 10% Cooldown Reduction\n<:MaxHP:1088115607410577448> + 600 Max HP",
+    "Passives [Field 3]": "**[Protection]** On dealing damage to enemy by Normal Attacks or Skills, gain (16 - 30)*Magic Pierce* (up to x8, lasts 3s)",
+    "Tag": "SA",
+    "Label": "B309 - [SA] Soaring Aura",
+    "Notice [Footer]": "",
+    
+    
+    
+  },
+  {
+    "Sec": "B",
+    "Col": 3,
+    "Num": 10,
+    "Icon (Preview)": "",
+    "Icon URL [Thumbnail]": "https://media.discordapp.net/attachments/1083036860919599186/1086521511034228796/image3.png?width=200&height=200",
+    "Name [Title]": "Holy of Holies",
+    "Price [Field 1]*": 2990,
+    "Attributes (+ Emotes) [Field 2]*": "<:AP:1088332995062141050> + 400 Ability Power",
+    "Passives [Field 3]": "**[Enlightenment]** + 1400 *Max HP*",
+    "Tag": "HoH",
+    "Label": "B310 - [HoH] Holy of Holies",
+    "Notice [Footer]": "",
+    
+    
+    
+  },
+  {
+    "Sec": "B",
+    "Col": 3,
+    "Num": 11,
+    "Icon (Preview)": "",
+    "Icon URL [Thumbnail]": "https://media.discordapp.net/attachments/1083036860919599186/1086521549835743263/image65.png?width=200&height=200",
+    "Name [Title]": "Arctic Orb",
+    "Price [Field 1]*": 2200,
+    "Attributes (+ Emotes) [Field 2]*": "<:AP:1088332995062141050> + 240 Ability Power",
+    "Passives [Field 3]": "**[Impervious]** __Activate:__ *Supress* yourself and become *Untargetable* for 1.5s, then gain a Shield absorbing (500 + Lv\\*40 + 50%AP)*Damage* for 1s. CD: 75s",
+    "Tag": "AO",
+    "Label": "B311 - [AO] Arctic Orb",
+    "Notice [Footer]": "",
+    
+    
+    
+  },
+  {
+    "Sec": "B",
+    "Col": 3,
+    "Num": 12,
+    "Icon (Preview)": "",
+    "Icon URL [Thumbnail]": "https://media.discordapp.net/attachments/1083036860919599186/1086521550859145236/image47.png?width=200&height=200",
+    "Name [Title]": "Frost Guard",
+    "Price [Field 1]*": 2100,
+    "Attributes (+ Emotes) [Field 2]*": "<:AP:1088332995062141050> + 140 Ability Power\n<:CDR:1088115603396636682> + 10% Cooldown Reduction\n<:MaxHP:1088115607410577448> + 600 Max HP",
+    "Passives [Field 3]": "**[Ice Armor]** Gain (50% AP) points of both *Armor* and *Magic Armor* (Max 250 each)",
+    "Tag": "FG",
+    "Label": "B312 - [FG] Frost Guard",
+    "Notice [Footer]": "",
+    
+    
+    
+  },
+  {
+    "Sec": "C",
+    "Col": 2,
+    "Num": "01",
+    "Icon (Preview)": "",
+    "Icon URL [Thumbnail]": "https://media.discordapp.net/attachments/1086878900128325762/1086879125316321310/image22.png?width=200&height=200",
+    "Name [Title]": "Belt of Clarity",
+    "Price [Field 1]*": 1000,
+    "Attributes (+ Emotes) [Field 2]*": "<:AP:1088332995062141050> + 110 Magic Armor\n<:MaxHP:1088115607410577448> + 700 Max HP",
+    "Passives [Field 3]": "**[Restore]** On taking damage, restores 4% *Max HP* over 2s. CD: 15s",
+    "Tag": "BoC",
+    "Label": "C201 - [BoC] Belt of Clarity",
+    "Notice [Footer]": "[Restore] also appears in Gaia's Standard",
+    
+    
+    
+  },
+  {
+    "Sec": "C",
+    "Col": 2,
+    "Num": "02",
+    "Icon (Preview)": "",
+    "Icon URL [Thumbnail]": "https://media.discordapp.net/attachments/1086878900128325762/1086879125832212551/image26.png?width=200&height=200",
+    "Name [Title]": "Knight's Plate",
+    "Price [Field 1]*": 730,
+    "Attributes (+ Emotes) [Field 2]*": "<:Armor:1088333014301409310> + 210 Armor",
+    "Passives [Field 3]": "**[Spirit Bond]** On taking damage, reduces Attacker's 15% *Attack Speed*",
+    "Tag": "KP",
+    "Label": "C202 - [KP] Knight's Plate",
+    "Notice [Footer]": "",
+    
+    
+    
+  },
+  {
+    "Sec": "C",
+    "Col": 2,
+    "Num": "03",
+    "Icon (Preview)": "",
+    "Icon URL [Thumbnail]": "https://media.discordapp.net/attachments/1086878900128325762/1086879124905263124/image7.png?width=200&height=200",
+    "Name [Title]": "Mail of Pain",
+    "Price [Field 1]*": 1940,
+    "Attributes (+ Emotes) [Field 2]*": "<:Armor:1088333014301409310> + 300 Armor\n<:MaxHP:1088115607410577448> + 1200 Max HP",
+    "Passives [Field 3]": "**[Malice]** Deflect 15% *Physical Damage* to enemy as *Magic Damage*",
+    "Tag": "MoP",
+    "Label": "C203 - [MoP] Mail of Pain",
+    "Notice [Footer]": "",
+    
+    
+    
+  },
+  {
+    "Sec": "C",
+    "Col": 2,
+    "Num": "04",
+    "Icon (Preview)": "",
+    "Icon URL [Thumbnail]": "https://media.discordapp.net/attachments/1086878900128325762/1086880143366168636/image60.png?width=200&height=200",
+    "Name [Title]": "Hecules' Madness",
+    "Price [Field 1]*": 2080,
+    "Attributes (+ Emotes) [Field 2]*": "<:AD:1088115601312055388> + 80 Attack Damage\n<:Armor:1088333014301409310> + 180 Armor",
+    "Passives [Field 3]": "**[Berserk]** CD: 60s. When HP falls below 40% will activate (lasts 8s):\n> Gains a Shield, absorbs (880 - 2000)*Damage*\n> Gains 20% *Life Steal* (Melee heroes only)",
+    "Tag": "HM",
+    "Label": "C204 - [HM] Hecules' Madness",
+    "Notice [Footer]": "",
+    
+    
+    
+  },
+  {
+    "Sec": "C",
+    "Col": 2,
+    "Num": "05",
+    "Icon (Preview)": "",
+    "Icon URL [Thumbnail]": "https://media.discordapp.net/attachments/1086878900128325762/1086879124062224404/image44.png?width=200&height=200",
+    "Name [Title]": "Odin's Will",
+    "Price [Field 1]*": 1900,
+    "Attributes (+ Emotes) [Field 2]*": "<:Armor:1088333014301409310> + 225 Armor\n<:MaxHP:1088115607410577448> + 1200 Max HP\n<:MVSP:1088333050221432904> + 5% Movement Speed",
+    "Passives [Field 3]": "**[Adrenaline]** On taking damage, increases 1% *Movement Speed* and 2% *Damage Dealt* (up to x5, lasts 3s)",
+    "Tag": "OW",
+    "Label": "C205 - [OW] Odin's Will",
+    "Notice [Footer]": "",
+    
+    
+    
+  },
+  {
+    "Sec": "C",
+    "Col": 3,
+    "Num": "01",
+    "Icon (Preview)": "",
+    "Icon URL [Thumbnail]": "https://media.discordapp.net/attachments/1086878900128325762/1086880143101919324/image58.png?width=200&height=200",
+    "Name [Title]": "Mantle of Ra",
+    "Price [Field 1]*": 1900,
+    "Attributes (+ Emotes) [Field 2]*": "<:Armor:1088333014301409310> + 225 Armor\n<:MaxHP:1088115607410577448> + 1000 Max HP\n<:Healing:1088333024925601802> + 60 HP / 5s",
+    "Passives [Field 3]": "**[Incinerate]** Burns (2% *Max HP*)*Magic Damage* to nearby enemies every second (x1.5 Damage against minions and wildlings)",
+    "Tag": "MoR",
+    "Label": "C301 - [MoR] Mantle of Ra",
+    "Notice [Footer]": "[Incinerate] also appears in Leviathan",
+    
+    
+    
+  },
+  {
+    "Sec": "C",
+    "Col": 3,
+    "Num": "02",
+    "Icon (Preview)": "",
+    "Icon URL [Thumbnail]": "https://media.discordapp.net/attachments/1086878900128325762/1086879124687175730/image2.png?width=200&height=200",
+    "Name [Title]": "Shield of the Lost",
+    "Price [Field 1]*": 2100,
+    "Attributes (+ Emotes) [Field 2]*": "<:Armor:1088333014301409310> + 275 Armor\n<:MaxHP:1088115607410577448> + 1200 Max HP",
+    "Passives [Field 3]": "**[Spirit Bond]** On taking damage, reduces Attacker's 30% *Attack Speed* and 15% *Movement Speed* (lasts 2s)",
+    "Tag": "SotL",
+    "Label": "C302 - [SotL] Shield of the Lost",
+    "Notice [Footer]": "",
+    
+    
+    
+  },
+  {
+    "Sec": "C",
+    "Col": 3,
+    "Num": "03",
+    "Icon (Preview)": "",
+    "Icon URL [Thumbnail]": "https://media.discordapp.net/attachments/1086878900128325762/1086879125106597928/image8.png?width=200&height=200",
+    "Name [Title]": "The Aegis",
+    "Price [Field 1]*": 2180,
+    "Attributes (+ Emotes) [Field 2]*": "<:CDR:1088115603396636682> + 20% Cooldown Reduction\n<:MaxMana:1088333045309919252> + 400 Max Mana\n<:Armor:1088333014301409310> + 360 Armor",
+    "Passives [Field 3]": "**[Enhanced Spirit Bond]** Reduces 30% *Attack Speed* of enemies within 5m",
+    "Tag": "TA",
+    "Label": "C303 - [TA] The Aegis",
+    "Notice [Footer]": "",
+    
+    
+    
+  },
+  {
+    "Sec": "C",
+    "Col": 3,
+    "Num": "04",
+    "Icon (Preview)": "",
+    "Icon URL [Thumbnail]": "https://media.discordapp.net/attachments/1086878900128325762/1086879123852501022/image32.png?width=200&height=200",
+    "Name [Title]": "Gaia's Standard",
+    "Price [Field 1]*": 1960,
+    "Attributes (+ Emotes) [Field 2]*": "<:MagicArmor:1088333031279960144> + 200 Magic Armor\n<:MaxHP:1088115607410577448> + 1200 Max HP\n<:MVSP:1088333050221432904> + 5% Movement Speed",
+    "Passives [Field 3]": "**[Restore]** On taking damage, restores 8% *Max HP* over 2s. CD: 10s",
+    "Tag": "GS",
+    "Label": "C304 - [GS] Gaia's Standard",
+    "Notice [Footer]": "[Restore] also appears in Belt of Clarity",
+    
+    
+    
+  },
+  {
+    "Sec": "C",
+    "Col": 3,
+    "Num": "05",
+    "Icon (Preview)": "",
+    "Icon URL [Thumbnail]": "https://media.discordapp.net/attachments/1086878900128325762/1086879125572157490/image24.png?width=200&height=200",
+    "Name [Title]": "Medallion of Troy",
+    "Price [Field 1]*": 2320,
+    "Attributes (+ Emotes) [Field 2]*": "<:CDR:1088115603396636682> + 10% Cooldown Reduction\n<:MagicArmor:1088333031279960144> + 200 Magic Armor\n<:MaxHP:1088115607410577448> + 1000 Max HP",
+    "Passives [Field 3]": "**[Riptose]** After exiting combat, gains a shield absorbing (460 - 1300)*Magic Damage*\n\n**[Reconciliation]** Gains (8 - 112)*Magic Armor*",
+    "Tag": "MoT",
+    "Label": "C305 - [MoT] Medallion of Troy",
+    "Notice [Footer]": "",
+    
+    
+    
+  },
+  {
+    "Sec": "C",
+    "Col": 3,
+    "Num": "06",
+    "Icon (Preview)": "",
+    "Icon URL [Thumbnail]": "https://media.discordapp.net/attachments/1086878900128325762/1086880142720249907/image53.png?width=256&height=256",
+    "Name [Title]": "Hyoga's Edge",
+    "Price [Field 1]*": 1920,
+    "Attributes (+ Emotes) [Field 2]*": "<:Armor:1088333014301409310> + 100 Armor\n<:MagicArmor:1088333031279960144> + 100 Magic Armor\n<:MaxHP:1088115607410577448> + 1200 Max HP",
+    "Passives [Field 3]": "**[Biting Cold]** Normal Attacks reduces Target's 25% *Movement Speed* while increasing own *Movement Speed* by 10% (lasts 2s)",
+    "Tag": "HE",
+    "Label": "C306 - [HE] Hyoga's Edge",
+    "Notice [Footer]": "",
+    
+    
+    
+  },
+  {
+    "Sec": "C",
+    "Col": 3,
+    "Num": "07",
+    "Icon (Preview)": "",
+    "Icon URL [Thumbnail]": "https://media.discordapp.net/attachments/1086878900128325762/1086879124477452338/image51.png?width=200&height=200",
+    "Name [Title]": "Blade of Eternity",
+    "Price [Field 1]*": 2400,
+    "Attributes (+ Emotes) [Field 2]*": "<:Armor:1088333014301409310> + 120 Armor",
+    "Passives [Field 3]": "**[Nirvana]** Resurrects 2s after death with (2100 - 3500)*HP*. CD: 150s (can only trigger twice)\n\n**[Fighting Spirit]** Increase 10% *Damage Dealt*",
+    "Tag": "BoE",
+    "Label": "C307 - [BoE] Blade of Eternity",
+    "Notice [Footer]": "",
+    
+    
+    
+  },
+  {
+    "Sec": "C",
+    "Col": 3,
+    "Num": "08",
+    "Icon (Preview)": "",
+    "Icon URL [Thumbnail]": "https://media.discordapp.net/attachments/1086878900128325762/1086879124263534642/image50.png?width=200&height=200",
+    "Name [Title]": "Frost Cape",
+    "Price [Field 1]*": 1970,
+    "Attributes (+ Emotes) [Field 2]*": "<:CDR:1088115603396636682> + 10% Cooldown Reduction\n<:Armor:1088333014301409310> + 200 Armor\n<:MaxHP:1088115607410577448> + 800 Max HP",
+    "Passives [Field 3]": "**[Elemental Power]** Next Normal Attack within 5s after using a skill deals additional (100 + 30%AD)*Physical Damage* with 30% Slow (-20% for Ranged heroes) for 0.5s. CD: 0.65s",
+    "Tag": "FC",
+    "Label": "C308 - [FC] Frost Cape",
+    "Notice [Footer]": "[Elemental Power] also appears in Omni Arms, Apocalypse, Loki's Curse",
+    
+    
+    
+  },
+  {
+    "Sec": "C",
+    "Col": 3,
+    "Num": "09",
+    "Icon (Preview)": "",
+    "Icon URL [Thumbnail]": "https://media.discordapp.net/attachments/1086878900128325762/1086880143764631642/image61.png?width=200&height=200",
+    "Name [Title]": "Amulet of Longetivity",
+    "Price [Field 1]*": 1980,
+    "Attributes (+ Emotes) [Field 2]*": "<:CDR:1088115603396636682> + 10% Cooldown Reduction\n<:MaxHP:1088115607410577448> + 2000 Max HP",
+    "Passives [Field 3]": "**[Longetivity]** Restores 4% *Max HP* every second when not in Battle State",
+    "Tag": "AoL",
+    "Label": "C309 - [AoL] Amulet of Longetivity",
+    "Notice [Footer]": "",
+    
+    
+    
+  },
+  {
+    "Sec": "C",
+    "Col": 3,
+    "Num": 10,
+    "Icon (Preview)": "",
+    "Icon URL [Thumbnail]": "https://media.discordapp.net/attachments/1086878900128325762/1086880142099480676/image62.png?width=200&height=200",
+    "Name [Title]": "Rock Shield",
+    "Price [Field 1]*": 1980,
+    "Attributes (+ Emotes) [Field 2]*": "<:Armor:1088333014301409310> + 240 Armor\n<:MaxHP:1088115607410577448> + 1200 Max HP",
+    "Passives [Field 3]": "**[Rock Shield]** __Activate:__ Immediately gains a shield, absorbs (30% *Max HP* + 10% *Lost HP*)*Damage*. Reduces own *Damage Dealt* by 70% while the shield is active. CD: 60s",
+    "Tag": "RS",
+    "Label": "C310 - [RS] Rock Shield",
+    "Notice [Footer]": "",
+    
+    
+    
+  },
+  {
+    "Sec": "D",
+    "Col": 2,
+    "Num": 1,
+    "Icon (Preview)": "",
+    "Icon URL [Thumbnail]": "https://media.discordapp.net/attachments/1087395576770998272/1087395706823778324/image71.png?width=200&height=200",
+    "Name [Title]": "Sonic Boots",
+    "Price [Field 1]*": 700,
+    "Attributes (+ Emotes) [Field 2]*": "<:Armor:1088333014301409310> + 110 Armor",
+    "Passives [Field 3]": "+ 60 Movement Speed - Unique Passive\n\n'- 15% Damage Taken from Normal Attacks - Unique Passive",
+    "Tag": "SB",
+    "Label": "D21 - [SB] Sonic Boots",
+    "Notice [Footer]": "",
+    
+    
+    
+  },
+  {
+    "Sec": "D",
+    "Col": 2,
+    "Num": 2,
+    "Icon (Preview)": "",
+    "Icon URL [Thumbnail]": "https://media.discordapp.net/attachments/1087395576770998272/1087395706303688775/image69.png?width=200&height=200",
+    "Name [Title]": "Gilded Greaves",
+    "Price [Field 1]*": 700,
+    "Attributes (+ Emotes) [Field 2]*": "<:MagicArmor:1088333031279960144> + 90 Magic Armor",
+    "Passives [Field 3]": "+ 60 Movement Speed - Unique Passive\n\n'+ 35% Resistance - Unique Passive",
+    "Tag": "GG",
+    "Label": "D22 - [GG] Gilded Greaves",
+    "Notice [Footer]": "",
+    
+    
+    
+  },
+  {
+    "Sec": "D",
+    "Col": 2,
+    "Num": 3,
+    "Icon (Preview)": "",
+    "Icon URL [Thumbnail]": "https://media.discordapp.net/attachments/1087395576770998272/1087395706005889065/image68.png?width=200&height=200",
+    "Name [Title]": "Flashy Boots",
+    "Price [Field 1]*": 700,
+    "Attributes (+ Emotes) [Field 2]*": "<:CDR:1088115603396636682> + 15% Cooldown Reduction",
+    "Passives [Field 3]": "+ 60 Movement Speed - Unique Passive",
+    "Tag": "FB",
+    "Label": "D23 - [FB] Flashy Boots",
+    "Notice [Footer]": "",
+    
+    
+    
+  },
+  {
+    "Sec": "D",
+    "Col": 2,
+    "Num": 4,
+    "Icon (Preview)": "",
+    "Icon URL [Thumbnail]": "https://media.discordapp.net/attachments/1087395576770998272/1087395705729056858/image67.png?width=200&height=200",
+    "Name [Title]": "Enchanted Kicks",
+    "Price [Field 1]*": 700,
+    "Attributes (+ Emotes) [Field 2]*": "N/A",
+    "Passives [Field 3]": "+ 60 Movement Speed - Unique Passive\n\n+ 75 Magic Pierce - Unique Passive",
+    "Tag": "EK",
+    "Label": "D24 - [EK] Enchanted Kicks",
+    "Notice [Footer]": "",
+    
+    
+    
+  },
+  {
+    "Sec": "D",
+    "Col": 2,
+    "Num": 5,
+    "Icon (Preview)": "",
+    "Icon URL [Thumbnail]": "https://media.discordapp.net/attachments/1087395576770998272/1087395707092217886/image72.png?width=200&height=200",
+    "Name [Title]": "War Boots",
+    "Price [Field 1]*": 700,
+    "Attributes (+ Emotes) [Field 2]*": "<:AS:1088334798382174279> + 25% Attack Speed",
+    "Passives [Field 3]": "+ 60 Movement Speed - Unique Passive",
+    "Tag": "WB",
+    "Label": "D25 - [WB] War Boots",
+    "Notice [Footer]": "",
+    
+    
+    
+  },
+  {
+    "Sec": "D",
+    "Col": 2,
+    "Num": 6,
+    "Icon (Preview)": "",
+    "Icon URL [Thumbnail]": "https://media.discordapp.net/attachments/1087395576770998272/1087395706572111883/image70.png?width=200&height=200",
+    "Name [Title]": "Hermes' Select",
+    "Price [Field 1]*": 580,
+    "Attributes (+ Emotes) [Field 2]*": "N/A",
+    "Passives [Field 3]": "+ 60 Movement Speed - Unique Passive\n\n**[Swift]** + 60 Movement Speed when not in Battle State",
+    "Tag": "HS",
+    "Label": "D26 - [HS] Hermes' Select",
+    "Notice [Footer]": "",
+    
+    
+    
+  },
+  {
+    "Sec": "E",
+    "Col": 23,
+    "Num": 1,
+    "Icon (Preview)": "",
+    "Icon URL [Thumbnail]": "https://media.discordapp.net/attachments/1087404090407006229/1087404131305664512/pixlr_20230320224926572.jpg?width=1134&height=1134",
+    "Name [Title]": "Monsters' Bane / Loki's Curse",
+    "Price [Field 1]*": "750 / 1750",
+    "Attributes (+ Emotes) [Field 2]*": "<:AP:1088332995062141050> + 40 / 140 Ability Power\n<:CDR:1088115603396636682> + 0% / 10% Cooldown Reduction",
+    "Passives [Field 3]": "(Grants *Frostbite* Talent)\n\n**[Elemental Power]**¹ Next Normal Attack within 5s after using a skill deals additional (35%AD + 50%AP)*Magic Damage*. CD: 2s\n\n**[Hunter]** Gains extra 35% EXP from killing wildlings. Normal Attacks and Skills will burn (60 - 172)*True Damage* to wildings every 0.5s (lasts 2s)\n\n**[Wild]** Gains 3 *Abilities Power* and 30 *Max Mana* for each nearby wildlings killed by you or allies (up to x20 / x30)\n\n**[Modest]** When you're near a teammate, each benefits 50% / 100% from killed nearby minions (Removes after 4 minuntes)",
+    "Tag": "MB/LC",
+    "Label": "E231 - [MB/LC] Monsters' Bane / Loki's Curse",
+    "Notice [Footer]": "¹ This ability only applies for Loki's Curse\n² [Elemental Power] also appears in Omni Arms, Apocalypse, Frost Cape, Loki's Curse",
+    
+    
+    
+  },
+  {
+    "Sec": "E",
+    "Col": 23,
+    "Num": 2,
+    "Icon (Preview)": "",
+    "Icon URL [Thumbnail]": "https://media.discordapp.net/attachments/1087404090407006229/1087404131859308724/pixlr_20230320225010364.jpg?width=1134&height=1134",
+    "Name [Title]": "Gnoll Cleaver / Leviathan",
+    "Price [Field 1]*": "750 / 1750",
+    "Attributes (+ Emotes) [Field 2]*": "<:Armor:1088333014301409310> + 0 / 120 Armor\n<:MaxHP:1088115607410577448> + 0 / 600 Max HP",
+    "Passives [Field 3]": "(Grants *Frostbite* Talent)\n\n**[Burn / Incinerate¹]** Burns ((50 - 78) / (2% *Max HP*))*Magic Damage* to nearby enemies every second (x2 Damage against minions and wildlings)\n\n**[Hunter]** Gains extra 35% EXP from killing wildlings. Normal Attacks and Skills will burn (60 - 172)*True Damage* to wildings every 0.5s (lasts 2s)\n\n**[Wild]** Gains 20 *Max HP* for each nearby wildlings killed by you or allies (up to x20 / x30)\n\n**[Modest]** When you're near a teammate, each benefits 50% / 100% from killed nearby minions (Removes after 4 minuntes)",
+    "Tag": "GC/LVT",
+    "Label": "E232 - [GC/LVT] Gnoll Cleaver / Leviathan",
+    "Notice [Footer]": "¹ [Incinerate] also appears in Mantle of Ra",
+    
+    
+    
+  },
+  {
+    "Sec": "E",
+    "Col": 23,
+    "Num": 3,
+    "Icon (Preview)": "",
+    "Icon URL [Thumbnail]": "https://media.discordapp.net/attachments/1087404090407006229/1087404130978504745/pixlr_20230320224948387.jpg?width=1134&height=1134",
+    "Name [Title]": "Mr. Stabby / Soulreaver",
+    "Price [Field 1]*": "750 / 1750",
+    "Attributes (+ Emotes) [Field 2]*": "<:AD:1088115601312055388> + 20 / 80 Attack Damage\n<:CDR:1088115603396636682> + 0 / 10% Cooldown Reduction",
+    "Passives [Field 3]": "(Grants *Frostbite* Talent)\n\n**[Armor Smasher]**¹ + 60 *Armor Pierce*\n\n**[Hunter]** Gains extra 35% EXP from killing wildlings. Normal Attacks and Skills will burn (60 - 172)*True Damage* to wildings every 0.5s (lasts 2s)\n\n**[Wild]** Gains 1 *Normal Attack* for each nearby wildlings killed by you or allies (up to x20 / x30)\n\n**[Modest]** When you're near a teammate, each benefits 50% / 100% from killed nearby minions (Removes after 4 minuntes)",
+    "Tag": "MS/SR",
+    "Label": "E233 - [MS/SR] Mr. Stabby / Soulreaver",
+    "Notice [Footer]": "¹ This ability only applies for Soulreaver",
+    
+    
+    
+  },
+  {
+    "Sec": "E",
+    "Col": 23,
+    "Num": 4,
+    "Icon (Preview)": "",
+    "Icon URL [Thumbnail]": "https://media.discordapp.net/attachments/1087404090407006229/1087404131582476419/pixlr_20230320224857662.jpg?width=1134&height=1134",
+    "Name [Title]": "Whispering Wind / Scorching Wind",
+    "Price [Field 1]*": "750 / 1750",
+    "Attributes (+ Emotes) [Field 2]*": "<:AD:1088115601312055388> + 20 / 30 Attack Damage\n<:AS:1088334798382174279> + 0 / 20% Attack Speed\n<:LS:1088333028629151765> + 0 / 10% Life Steal",
+    "Passives [Field 3]": "(Grants *Frostbite* Talent)\n\n**[Fire Storm]**¹ Normal Attacks will mark the target, dealing (15 - 19)*Magic Damage* for each mark (up to x6). CD: 0.3s\n\n**[Hunter]** Gains extra 35% EXP from killing wildlings. Normal Attacks and Skills will burn (60 - 172)*True Damage* to wildings every 0.5s (lasts 2s)\n\n**[Wild]** Gains 0.8 *Attack Speed* for each nearby wildlings killed by you or allies (up to x20 / x30)\n\n**[Modest]** When you're near a teammate, each benefits 50% / 100% from killed nearby minions (Removes after 4 minuntes)",
+    "Tag": "WW/SW",
+    "Label": "E234 - [WW/SW] Whispering Wind / Scorching Wind",
+    "Notice [Footer]": "¹ This ability only applies for Scorching Wind",
+    
+    
+    
+  },
+  {
+    "Sec": "G",
+    "Col": 23,
+    "Num": 0,
+    "Icon (Preview)": "",
+    "Icon URL [Thumbnail]": "https://media.discordapp.net/attachments/1087255686653689877/1087255747936649216/pixlr_20230318112631082.png?width=1134&height=1134",
+    "Name [Title]": "Support Set (Earth - Water - Fire Gem) (Lv 2 / 3)",
+    "Price [Field 1]*": "900 / 1200",
+    "Attributes (+ Emotes) [Field 2]*": "+ 5% / 10% Cooldown Reduction\n+ 5% Movement Speed\n<:Earthgem:1088735486434086963> + 400 Max HP\n<:WaterGem:1008388741611663390> + 40 Ability Power\n<:Firegem:1088735491467259945> + 20 / 30 Attack Damage",
+    "Passives [Field 3]": "**[Elemental Spirit]** Gains 1 *Element Crystal* every second that grants respective Attributes (up to x20 / 30)\n> <:Earthgem:1088735486434086963> + 40 / 60 *Max HP*\n> <:WaterGem:1008388741611663390> + 3 / 5 Ability Power\n> <:Firegem:1088735491467259945> + 2 / 3 Normal Attack\n\n**[Up-and-Coming]** Gains (6 - 10) Gold or EXP every 3s while own amount ranked the last two of the team \n\n**[Modest]** When you're near a teammate, each benefits 40% / 100% from killed nearby minions and wildlings (Removes after 10 minuntes)",
+    "Tag": "SP",
+    "Label": "G230 - [SP] Support Set (Earth - Water - Fire Gem) (Lv 2 / 3)",
+    "Notice [Footer]": "",
+    
+    
+    
+  }
+]

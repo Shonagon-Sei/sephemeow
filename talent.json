@@ -1,0 +1,47 @@
+[
+  {
+    "Num": "Field 1*",
+    "Icon": "<:Heal:1129229474492321832> Heal",
+    "Desc": "> - `Cooldown: 120s`\n> Nearby allies instantly restore 15% **Max HP** and increase 15% **Movement Speed** for 2s"
+  },
+  {
+    "Num": "Field 2*",
+    "Icon": "<:Execute:1129229481278713967> Execute",
+    "Desc": "> - `Cooldown: 9s`\n> Instantly attacks nearby enemies, deals **True Damage** equals Target's 16% Lost HP"
+  },
+  {
+    "Num": "Field 3*",
+    "Icon": "<:Purify:1129229497594556427> Purify",
+    "Desc": "> - `Cooldown: 120s`\n> Removes all **Debuffs** and **Control Effects**. Gains **Super Armor** for 1.5s"
+  },
+  {
+    "Num": "Field 4*",
+    "Icon": "<:Enfeeble:1129229499796570173> Enfeeble",
+    "Desc": "> - `Cooldown: 90s`\n> Reduces nearby enemies' 20% **Damage Dealt** and gains 20% **Damage Reduction** for 4s"
+  },
+  {
+    "Num": "Field 5*",
+    "Icon": "<:Flicker:1129229485154242660> Flicker",
+    "Desc": "> - `Cooldown: 120s`\n> Teleports a certain distance in the target direction"
+  },
+  {
+    "Num": "Field 6*",
+    "Icon": "<:Roar:1129229488652308592> Roar",
+    "Desc": "> - `Cooldown: 60s`\n> Increases 25% **Resistance** and 10% **Damage Dealt**, while healing 2% **Max HP** every second over 6s"
+  },
+  {
+    "Num": "Field 7*",
+    "Icon": "<:Daze:1129229494000029697> Daze",
+    "Desc": "> - `Cooldown: 90s`\n> Stuns all nearby enemies for 0.75s\n> Then, reduces Targets' 20% **Movement Speed**, (28 + Lv*2) **Armor**, and (14 + Lv) **Magic Armor** for 2.5s"
+  },
+  {
+    "Num": "Field 8*",
+    "Icon": "<:Sprint:1129229478913134662> Sprint",
+    "Desc": "> - `Cooldown: 100s`\n> Removes all **Slow** effects and gain a diminishing (70% - 30%) **Movement Speed** for 10s"
+  },
+  {
+    "Num": "Field 9",
+    "Icon": "<:Punish:1129233280802242660><:Frostbite:1129233601578414140> Punish / Frostbite",
+    "Desc": "> - `Cooldown: 30s` \n> <:Punish:1129233280802242660>: Deals (1350 - 2750) **True Damage** to a nearby Wildling / Minion and stun them for 1s\n> <:Frostbite:1129233601578414140>: Simultaneously cast on a nearby enemy, dealing (200 - 410) **True Damage** with 50% **Slow** for 2s"
+  }
+]
